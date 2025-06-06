@@ -3,15 +3,22 @@
 > 🚀 Kumpulan AI Tools terbaik untuk kamu yang mau belajar, kerja, atau produktif dengan bantuan AI — dikurasi khusus untuk pengguna di Indonesia.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/Status-Beta-yellowgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum%20%7C%20BSC-purple?style=flat-square&logo=ethereum">
-  <img src="https://img.shields.io/github/license/kongali1720/scam-token-detector?style=flat-square">
+  <img src="https://img.shields.io/badge/AI%20Tools-Indonesia-blueviolet?style=flat-square&logo=OpenAI" />
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%96%20by%20kongali1720-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/kongali1720/awesome-ai-tools-indonesia?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/kongali1720/awesome-ai-tools-indonesia?style=flat-square" />
+  <img src="https://img.shields.io/github/license/kongali1720/awesome-ai-tools-indonesia?style=flat-square" />
 </p>
+
 
 <p align="center">Made with 💻 + ☕ by <b>Kongali1720</b></p>
 
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh1dHRveGR3anY1aGJhMWtsOXI0NW9wOThla2JhZ2drMnN2Y2FkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="400"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kongali1720/awesome-ai-tools-indonesia/main/awesome-ai-tools.png" alt="Awesome AI Tools Banner" />
+</p>
+
+
 
 
 ## 📚 Kategori Tools

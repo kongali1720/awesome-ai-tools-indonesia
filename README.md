@@ -22,6 +22,11 @@
 
 
 ## 📚 Kategori Tools
+> Jelajahi tools berdasarkan kegunaannya:
+
+- 🎨 [Desain & Gambar](#desain--gambar) → Bikin konten visual dengan bantuan AI
+- 👨‍💻 [Coding & Pengembangan](#coding--pengembangan) → Auto-complete, debugging, IDE AI
+
 
 - 🎨 [Desain & Gambar](#desain--gambar)
 - 👨‍💻 [Coding & Pengembangan](#coding--pengembangan)
@@ -113,7 +118,7 @@ Mau nambah tools? Pull Request atau buka Issue aja!
 
 ---
 
-<h2 align="center">💡 ☕ Traktir Kopi & Nasi Padang ama nasi Gorengnya ya cuy! 😄</h2>
+<h3 align="center">💡 ☕ Traktir Kopi & Nasi Padang ama nasi Gorengnya ya cuy! 😄</h3>
 
 <div align="center">
 
@@ -158,22 +163,31 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
 
 | Quotes | Penjelasan |
 |:-------|:-----------|
-| 🧡 "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." |  |
+| 🧡 "**Jadi hacker hati bukan cuma soal kode... tapi juga soal peduli.**" |  |
 | 🧠 🎧"Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" |  |
+
 
 ---
 
-<p align="center" style="display: flex; justify-content: center; align-items: flex-end; gap: 50px; margin-top: 20px; height: 80px;">
-  <div style="height: 60px; display: flex; align-items: flex-end;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/100px-Visa_Logo.png" alt="Visa" style="max-height: 100%; max-width: 120px;" />
-  </div>
-  <div style="height: 60px; display: flex; align-items: flex-end;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/100px-Mastercard-logo.svg.png" alt="Mastercard" style="max-height: 100%; max-width: 120px;" />
-  </div>
-  <div style="height: 60px; display: flex; align-items: flex-end;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/100px-PayPal_logo.svg.png" alt="PayPal" style="max-height: 100%; max-width: 120px;" />
-  </div>
-</p>
+  <section id="dukungan-pembayaran">
+    <h2>💳 Dukungan Pembayaran DONASINYA </h2>
+    <table class="payment" aria-label="Metode Pembayaran">
+      <thead>
+        <tr>
+          <th>Visa</th>
+          <th>Mastercard</th>
+          <th>PayPal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Logo Visa" /></td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Logo Mastercard" /></td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="Logo PayPal" /></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
 
 ---
 
@@ -181,5 +195,20 @@ Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke temen-t
 Follow @kongali1720 buat diskusi dan update seru lainnya 🔥
 
 ---
+ <section id="coming-soon">
+    <h2>🧪 Coming Soon</h2>
+    <ul>
+      <li>🔍 AI tools untuk cari kerja otomatis</li>
+      <li>📊 Analisa data pake AI</li>
+    </ul>
+  </section>
+
+  <div class="twitter-badge">
+    <a href="https://twitter.com/kongali1720" target="_blank" rel="noopener noreferrer" aria-label="Follow kongali1720 on Twitter">
+      <img src="https://img.shields.io/twitter/follow/kongali1720?style=social" alt="Twitter Follow Badge" />
+    </a>
+  </div>
+
+  <footer>
 
 

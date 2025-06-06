@@ -2,8 +2,6 @@
 
 > 🚀 Kumpulan AI Tools terbaik untuk kamu yang mau belajar, kerja, atau produktif dengan bantuan AI — dikurasi khusus untuk pengguna di Indonesia.
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/Status-Beta-yellowgreen?style=flat-square">
@@ -13,9 +11,7 @@
 
 <p align="center">Made with 💻 + ☕ by <b>Kongali1720</b></p>
 
----
-
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYwNnR2bTNhd2w1d24yYmN1dTRjaTlib3BidWI2ZHY4cXMwbXQwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/> </p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh1dHRveGR3anY1aGJhMWtsOXI0NW9wOThla2JhZ2drMnN2Y2FkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="400"/> </p>
 
 
 ## 📚 Kategori Tools

@@ -86,6 +86,7 @@
 |------|--------|------|
 | [Runway ML](https://runwayml.com) | Edit video pakai AI, auto background remove | 🔄 Berbayar |
 | [Pictory](https://pictory.ai/) | Ubah artikel jadi video | 🔄 Berbayar |
+| [videos.social](https://videos.social/?utm_source=kongali1720-awesome-ai-tools-indonesia&utm_medium=directory&utm_campaign=listing-wave-d) | Ubah blog, PDF, dan prompt jadi video faceless yang bisa diedit | ✅ Gratis (1 render) |
 | [CapCut AI](https://www.capcut.com/tools) | Edit video & subtitle otomatis | ✅ Gratis |
 
 ---

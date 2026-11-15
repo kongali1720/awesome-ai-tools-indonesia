@@ -61,6 +61,7 @@
 | [ChatGPT](https://chat.openai.com) | Chatbot pintar buat tanya apa aja | ✅ Gratis (dengan login) |
 | [Khan Academy](https://www.khanacademy.org/) | Belajar bareng AI tutor "Khanmigo" | ✅ Gratis |
 | [Notion AI](https://www.notion.so/product/ai) | Bantu nulis & rangkum materi | 🔄 Berbayar |
+| [HumanPen](https://humanpen.net) | Menulis ulang dokumen akademik, memformat sitasi, dan meringkas | 100 kredit saat daftar / kredit berbayar |
 
 ---
 
